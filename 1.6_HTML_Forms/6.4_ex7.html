@@ -1,0 +1,62 @@
+
+<!-- Упражнение 6.4. Флажки и переключатели  -->
+
+<html>
+<head>
+<title> Test Form </title>
+</head>
+<body>
+		<p>Основные элементы форм:</p>
+		
+		<form action = "ex7.html" method = "POST" enctype = "multipart/form-data">
+		<form action = "ex7.html" method = "POST" enctype = "multipart/form-data">
+	Простое текстовое поле: <input type = "text" name = "txtField" /><br />
+	
+	Поле длинной максимум 5 символов: <input type = "text" name = "txtField" maxlength = "5" /><br />
+	Многострочное текстовое поле:<br /><textarea name = "txtArea">This is a text area</textarea><br />
+	Поле для ввода пароля:<input type = "password" name = "psw" /><br />
+
+	Скрытое поле: <input type = "hidden" name = "hdnTxt"></br>
+	<input type = "submit" name = "submit" value = "Отправить!" />
+	</form>
+	
+		<form>
+			Работа с цветом:<input type = "color" name = "color"/><br/>
+			Работа с датой:<input type = "date" name = "date"/><br/>
+			Проверка e-mail:<input type = "email" name = "mail"/><br/>
+			Проверка чисел:<input type = "number" name = "num"/><br/>
+			Работа с днем недели:<input type = "week" name = "week"/><br/>
+			Проверка URL:<input type = "url" name = "url"/><br/>
+		<input type = "submit" name = "submit" value = "Отправить!" />
+	</form>
+	
+	<form>
+	Введите данные:<input type = "text" name = "txt"><br/>
+	<input type = "reset" name = "reset" value = "Очистить поле!" /><br />
+	
+	<button name = "myButton">
+		<img src = "6.3_ex7.jpg" title = "This is a button too">
+		</button>
+	
+		<!-- Отсюда Упражнение 6.4. Флажки и переключатели  -->
+			<!-- п.1  -->
+	
+	<form>
+	<p><input type = "radio" name = "MyRadio" value = "First">First Variant</p>
+	<p><input type = "radio" name = "MyRadio" value = "Second">Second Variant</p>
+	<p><input type = "radio" name = "MyRadio" value = "Third">Third Variant</p>
+	<p><input type = "submit" name = "submit" value = "Подача запроса">
+</form>
+
+			<!-- п.3  -->
+	<form>
+<p><input type = "checkbox" name = "MyChckBx[]" value = "First">First Variant</p>
+<p><input type = "checkbox" name = "MyChckBx[]" value = "Second">Second Variant</p>
+<p><input type = "checkbox" name = "MyChckBx[]" value = "Third">Third Variant</p>
+<p><input type = "submit" name = "submit" value = "Подача запроса">
+  </form>
+
+	
+</form>
+</body>
+</html>
