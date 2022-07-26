@@ -1,0 +1,49 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<lessons>
+	<teacher id = "01">
+		<TeachName>Антон</TeachName>
+		<TeacLastName>Смольянинов</TeacLastName>
+		<TeacPatrName>Валентинович</TeacPatrName>
+		<Age>н/и</Age>
+		<Education>Высшее </Education>
+		<Address>СПб</Address>
+		<Email>Smolant@mail.ru</Email>
+		<Phone>н/и</Phone>
+		<ReadDis1>"Технологии программирования"</ReadDis1>
+		<ReadDis2>"Программирование на С#"</ReadDis2>
+		<ReadDis3>"Разработка Windows-приложений на С#"</ReadDis3>
+		<ReadDis4>"Основы технологии разметки (HTML, XML)"</ReadDis4>
+	</teacher>
+	
+		<teacher id = "02">
+		<TeachName>Денис</TeachName>
+		<TeacLastName>Ямщиков</TeacLastName>
+		<TeacPatrName>Викторович</TeacPatrName>
+		<Age>н/и</Age>
+		<Education>Высшее </Education>
+		<Address>СПб</Address>
+		<Email>D.yamsch@mail.ru</Email>
+		<Phone>н/и</Phone>
+		<ReadDis1>"Основы программирования"</ReadDis1>
+		<ReadDis2>"Введение в базы данных"</ReadDis2>
+		<ReadDis3>"Transact-SQL и разработка Microsoft SQL Server"</ReadDis3>
+		<ReadDis4>"Разработка Web-приложений на HTML5, JavaScript и CSS3"</ReadDis4>
+	</teacher>
+	
+		<teacher id = "03">
+		<TeachName>Никита</TeachName>
+		<TeacLastName>Осипов</TeacLastName>
+		<TeacPatrName>Алексеевич</TeacPatrName>
+		<Age>н/и</Age>
+		<Education>Высшее </Education>
+		<Address>СПб</Address>
+		<Email>N.Osipov@mail.ru</Email>
+		<Phone>н/и</Phone>
+		<ReadDis1>"Основы программирования"</ReadDis1>
+		<ReadDis2>"Разработка Web-приложений с использованием технологии ASP.NE"</ReadDis2>
+		<ReadDis3>"Программирование на C++"</ReadDis3>
+		<ReadDis4>"Разработка Web-приложений на HTML5, JavaScript и CSS3"</ReadDis4>
+	</teacher>
+	
+</lessons>
+

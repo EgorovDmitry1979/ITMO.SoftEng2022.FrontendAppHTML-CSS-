@@ -1,0 +1,49 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<myns:TimeTable xmlns:myns="http://www.itmo.ru/xml/lessons">
+	<myns:teacher id = "01">
+		<myns:TeachName>Антон</myns:TeachName>
+		<myns:TeacLastName>Смольянинов</myns:TeacLastName>
+		<myns:TeacPatrName>Валентинович</myns:TeacPatrName>
+		<myns:Age>н/и</myns:Age>
+		<myns:Education>Высшее </myns:Education>
+		<myns:Address>СПб</myns:Address>
+		<myns:Email>Smolant@mail.ru</myns:Email>
+		<myns:Phone>н/и</myns:Phone>
+		<myns:ReadDis1>"Технологии программирования"</myns:ReadDis1>
+		<myns:ReadDis2>"Программирование на С#"</myns:ReadDis2>
+		<myns:ReadDis3>"Разработка Windows-приложений на С#"</myns:ReadDis3>
+		<myns:ReadDis4>"Основы технологии разметки (HTML, XML)"</myns:ReadDis4>
+	</myns:teacher>
+	
+		<myns:teacher id = "02">
+		<myns:TeachName>Денис</myns:TeachName>
+		<myns:TeacLastName>Ямщиков</myns:TeacLastName>
+		<myns:TeacPatrName>Викторович</myns:TeacPatrName>
+		<myns:Age>н/и</myns:Age>
+		<myns:Education>Высшее </myns:Education>
+		<myns:Address>СПб</myns:Address>
+		<myns:Email>D.yamsch@mail.ru</myns:Email>
+		<myns:Phone>н/и</myns:Phone>
+		<myns:ReadDis1>"Основы программирования"</myns:ReadDis1>
+		<myns:ReadDis2>"Введение в базы данных"</myns:ReadDis2>
+		<myns:ReadDis3>"Transact-SQL и разработка Microsoft SQL Server"</myns:ReadDis3>
+		<myns:ReadDis4>"Разработка Web-приложений на HTML5, JavaScript и CSS3"</myns:ReadDis4>
+	</myns:teacher>
+	
+		<myns:teacher id = "03">
+		<myns:TeachName>Никита</myns:TeachName>
+		<myns:TeacLastName>Осипов</myns:TeacLastName>
+		<myns:TeacPatrName>Алексеевич</myns:TeacPatrName>
+		<myns:Age>н/и</myns:Age>
+		<myns:Education>Высшее </myns:Education>
+		<myns:Address>СПб</myns:Address>
+		<myns:Email>N.Osipov@mail.ru</myns:Email>
+		<myns:Phone>н/и</myns:Phone>
+		<myns:ReadDis1>"Основы программирования"</myns:ReadDis1>
+		<myns:ReadDis2>"Разработка Web-приложений с использованием технологии ASP.NE"</myns:ReadDis2>
+		<myns:ReadDis3>"Программирование на C++"</myns:ReadDis3>
+		<myns:ReadDis4>"Разработка Web-приложений на HTML5, JavaScript и CSS3"</myns:ReadDis4>
+	</myns:teacher>
+</myns:TimeTable>
+
+
